@@ -40,6 +40,9 @@ img {
     margin-right: 20px;
     margin-top: 20px;
 }
+.flatpickr-months{
+    background-color: antiquewhite;
+}
 
 .value {
     font-size: xxx-large;
